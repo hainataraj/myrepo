@@ -43,6 +43,7 @@ public class AndroidSampleTest {
 //        desiredCapabilities.setCapability("newCommandTimeout", "20");
 //        desiredCapabilities.setCapability(MobileCapabilityType.NO_RESET, "true");
 //        driver = new AndroidDriver(new URL("https://cloud.seetest.io/wd/hub/"), desiredCapabilities);
+        //
 
 
     }
