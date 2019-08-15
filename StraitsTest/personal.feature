@@ -1,1 +1,5 @@
-Scenario:1
+Feature:
+  Login
+  
+  Scenario:
+    Given user login with valid data
