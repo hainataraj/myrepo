@@ -5,3 +5,6 @@ Feature:
   Scenario:
     <Some interesting scenario steps here>
     Given newfile1 
+    
+  @tag2
+  Scenario:
