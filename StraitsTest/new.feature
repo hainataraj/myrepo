@@ -8,6 +8,10 @@ Feature:
     And hello
     Then newfile1
     And newfile1
+    Then newfile1
     
   @tag2
   Scenario:
+    
+    @tag3
+    Scenario:
